@@ -1,0 +1,36 @@
+11.3s 1 The shape of the dataset is :  (303, 14)
+11.8s 2 The categorial cols are :  ['sex', 'exng', 'caa', 'cp', 'fbs', 'restecg', 'slp', 'thall']
+11.8s 3 The continuous cols are :  ['age', 'trtbps', 'chol', 'thalachh', 'oldpeak']
+11.8s 4 The target variable is :   ['output']
+68.4s 5 Packages imported...
+68.9s 6 The first 5 rows of X are
+69.3s 7 The shape of X_train is       (242, 22)
+69.3s 8 The shape of X_test is        (61, 22)
+69.3s 9 The shape of y_train is       (242, 1)
+69.3s 10 The shape of y_test is        (61, 1)
+70.0s 11 The test accuracy score of SVM is  0.8688524590163934
+75.1s 12 The best params are : {'C': 3, 'gamma': 0.1}
+75.1s 13 The best score is   : 0.8384353741496599
+75.1s 14 The test accuracy score of SVM after hyper-parameter tuning is  0.9016393442622951
+75.4s 15 The test accuracy score of Logistric Regression is  0.9016393442622951
+76.5s 16 The test accuracy score of Decision Tree is  0.7868852459016393
+77.1s 17 The test accuracy score of Random Forest is  0.7868852459016393
+77.6s 18 The test accuracy score of Gradient Boosting Classifier is  0.8688524590163934
+80.8s 19 /opt/conda/lib/python3.7/site-packages/traitlets/traitlets.py:2561: FutureWarning: --Exporter.preprocessors=["remove_papermill_header.RemovePapermillHeader"] for containers is deprecated in traitlets 5.0. You can pass `--Exporter.preprocessors item` ... multiple times to add items to a list.
+80.8s 20 FutureWarning,
+80.8s 21 [NbConvertApp] Converting notebook __notebook__.ipynb to notebook
+81.4s 22 [NbConvertApp] Writing 1868937 bytes to __notebook__.ipynb
+82.6s 23 /opt/conda/lib/python3.7/site-packages/traitlets/traitlets.py:2561: FutureWarning: --Exporter.preprocessors=["nbconvert.preprocessors.ExtractOutputPreprocessor"] for containers is deprecated in traitlets 5.0. You can pass `--Exporter.preprocessors item` ... multiple times to add items to a list.
+82.6s 24 FutureWarning,
+82.6s 25 [NbConvertApp] Converting notebook __notebook__.ipynb to html
+83.9s 26 [NbConvertApp] Support files will be in __results___files/
+83.9s 27 [NbConvertApp] Making directory __results___files
+83.9s 28 [NbConvertApp] Making directory __results___files
+83.9s 29 [NbConvertApp] Making directory __results___files
+83.9s 30 [NbConvertApp] Making directory __results___files
+83.9s 31 [NbConvertApp] Making directory __results___files
+83.9s 32 [NbConvertApp] Making directory __results___files
+83.9s 33 [NbConvertApp] Making directory __results___files
+83.9s 34 [NbConvertApp] Making directory __results___files
+83.9s 35 [NbConvertApp] Making directory __results___files
+83.9s 36 [NbConvertApp] Writing 485483 bytes to __results__.html
